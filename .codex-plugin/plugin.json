@@ -1,0 +1,35 @@
+{
+  "name": "contextbolt-bookmarks",
+  "version": "0.1.0",
+  "description": "Find, explore, export, and save your web and social bookmarks in your AI assistant.",
+  "author": {
+    "name": "ContextBolt",
+    "email": "hello@contextbolt.com",
+    "url": "https://contextbolt.com"
+  },
+  "homepage": "https://contextbolt.com/docs/bookmarks/",
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "ContextBolt Bookmarks",
+    "shortDescription": "Find and save web and social bookmarks in your assistant.",
+    "longDescription": "Find, explore, export, and save web and social bookmarks. Requires a ContextBolt Bookmarks Pro account. Connect through the hosted sign-in page.",
+    "developerName": "ContextBolt",
+    "category": "Productivity",
+    "capabilities": [
+      "Read",
+      "Write"
+    ],
+    "websiteURL": "https://contextbolt.com/bookmarks/",
+    "privacyPolicyURL": "https://contextbolt.com/privacy/",
+    "termsOfServiceURL": "https://contextbolt.com/terms/",
+    "defaultPrompt": [
+      "Find bookmarks I saved about content marketing.",
+      "What did I save in the last seven days?",
+      "Show me the main topics in my saved collection."
+    ],
+    "brandColor": "#EA580C",
+    "logo": "./assets/icon.png",
+    "composerIcon": "./assets/icon.png"
+  }
+}

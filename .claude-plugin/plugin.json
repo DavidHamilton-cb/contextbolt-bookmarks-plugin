@@ -1,0 +1,12 @@
+{
+  "name": "contextbolt-bookmarks",
+  "version": "0.1.0",
+  "description": "Find, explore, export, and save your web and social bookmarks in your AI assistant.",
+  "author": {
+    "name": "ContextBolt",
+    "email": "hello@contextbolt.com",
+    "url": "https://contextbolt.com"
+  },
+  "homepage": "https://contextbolt.com/docs/bookmarks/",
+  "mcpServers": "./.mcp.json"
+}
